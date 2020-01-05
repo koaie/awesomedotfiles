@@ -1,7 +1,7 @@
 <div align="center">
-    <h1> ----------------- WARNING THIS REPO IS NO LONGER UPDATED ----------------- </h1>
+    <h3> ----------------- WARNING THIS REPO IS NO LONGER UPDATED ----------------- </h3>
         <p> all futures commits will be done at https://github.com/poiuedws/luc/ </p>
-    <h1> ----------------- WARNING THIS REPO IS NO LONGER UPDATED ----------------- </h1>
+    <h3> ----------------- WARNING THIS REPO IS NO LONGER UPDATED ----------------- </h3>
     <h1>awesomedotfiles</h1>
     <p>Fork of  https://github.com/ilovecookieee/Glorious-Dotfiles/tree/master/config/awesome/lines</b></p>
     <p>Aims to be pretty, functional, and light weight. </p>
